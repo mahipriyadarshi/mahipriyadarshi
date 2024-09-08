@@ -30,7 +30,7 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 ---
 
 # 📊 GitHub Stats:
-![Pranshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahipriyadarshi1&theme=tokyonight&border_radius=7.6)
+![Pranshu's GitHub stats](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api/cards/profile-details?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
 
 ---
 
@@ -39,7 +39,7 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 ---
 
 # 📊 LeetCode:
-<p align="center">&nbsp;<img align="center" src="?theme=dark,unicorn" alt="sharmakavya1002"/></p>
+<p align="center">&nbsp;<img align="center" src="?theme=dark,unicorn" alt="MahiPriyadarshi"/></p>
 
 
 ---
