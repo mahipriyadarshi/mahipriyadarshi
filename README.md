@@ -30,7 +30,7 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 ---
 
 # 📊 GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
