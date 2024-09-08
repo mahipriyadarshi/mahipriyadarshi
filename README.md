@@ -35,7 +35,7 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 ---
 
 # Top Languages:
-[![Top Langs](https://github-readme-stats-seven-roam-68.vercel.app/api/top-langs/?username=mahipriyadarshi&layout=donut-vertical)](https://github.com/mahipriyadarshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-roan-68.vercel.app/api/top-langs/?username=mahipriyadarshi&layout=donut-vertical)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
