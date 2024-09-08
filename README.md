@@ -43,7 +43,7 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 
 
 ---
-[![Mahi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahipriyadarshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
