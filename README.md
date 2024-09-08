@@ -43,12 +43,6 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 
 
 ---
-
-🎧 Currently Playing:
-
-[![YouTube Music](https://img.shields.io/badge/YouTube%20Music-Abhi%20Kuch%20Dino%20Se%20by%20Mohit%20Chauhan-red?style=for-the-badge&logo=youtube-music)]()
-
----
 [![Mahi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahipriyadarshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
