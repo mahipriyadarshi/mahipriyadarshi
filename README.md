@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Mahi Priyadarshi</h1>
-<h3 align="center">A passionate learner in Web Development and Data Structures & Algorithms.</h3>
+<h3 align="center">A passionate learner in AI & Deep Learning and Data Structures & Algorithms.</h3>
 
 <p align="center">
   <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahi20%Priyadarshi-blue?style=flat-square&logo=linkedin"></a>
@@ -13,10 +13,10 @@
 
 🚀 About Me:
 
-I'm a self-motivated developer currently diving deep into the world of Web Development and honing my skills in Data Structures & Algorithms. I'm passionate about building things that live on the internet, whether it's a website, an application, or a helpful code snippet.
+I'm a self-motivated developer currently diving deep into the world of Deep Learning and honing my skills in Data Structures & Algorithms. I'm passionate about building things that live on the internet, whether it's a website, an application, or a helpful code snippet.
 
-- 🔭 I’m currently working on enhancing my skills in Full Stack Web Development.
-- 🌱 I’m currently learning JavaScript frameworks and advanced algorithms.
+- 🔭 I’m currently working on enhancing my skills on Artificial Intelligence and development.
+- 🌱 I’m currently learning TensorFlow and keras and advanced algorithms.
 - 🎯 Goals: Contribute more to open-source projects and create valuable resources for the community.
 - ⚡ Fun fact: I enjoy exploring new technologies .
 
