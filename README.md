@@ -30,7 +30,7 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 ---
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
+[![GitHub stats](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
