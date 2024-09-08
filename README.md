@@ -30,11 +30,11 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 ---
 
 # 📊 GitHub Stats:
-[![Mahi's GitHub stats](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api/cards/profile-details?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)](https://github.com/mahipriyadarshi/github-readme-stats)
+[![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api/cards/profile-details?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
-![](http://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api/cards/most-commit-language?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
+![](https://github-readme-stats.vercel.app/api/cards/most-commit-language?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
 
 ---
 
@@ -43,7 +43,7 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 
 
 ---
-[![Mahi's GitHub stats](github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
+[![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
