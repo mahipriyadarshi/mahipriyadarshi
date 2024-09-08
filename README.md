@@ -4,8 +4,8 @@
 <h3 align="center">A passionate learner in Web Development and Data Structures & Algorithms.</h3>
 
 <p align="center">
-  <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahi%20Priyadarshi-blue?style=flat-square&logo=linkedin"></a>
-  <a href=""><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@12-blue?style=flat-square&logo=twitter"></a>
+  <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahi20%Priyadarshi-blue?style=flat-square&logo=linkedin"></a>
+  <a href=""><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 
@@ -30,20 +30,24 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 ---
 
 # 📊 GitHub Stats:
-[![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api/cards/profile-details?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)](https://github.com/mahipriyadarshi/github-readme-stats)
+![GitHub stats](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api/cards/profile-details?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/cards/most-commit-language?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
+[![](https://github-readme-stats-mahi-priyadarshi-s-projects.vercel.app/api/cards/most-commit-language?username=mahipriyadarshi&theme=tokyonight&border_radius=7.6)
 
 ---
 
 # 📊 LeetCode:
-<p align="center">&nbsp;<img align="center" src="?theme=dark,unicorn" alt="MahiPriyadarshi"/></p>
+<p align="center">&nbsp;<img align="center" src="" alt="mahipriyadarshi"/></p>
 
 
 ---
-[![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
+
+
+
+---
+
 
 ---
 
