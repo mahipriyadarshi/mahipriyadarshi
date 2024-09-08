@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I am Mahi Priyadarshi</h1>
+<h1 align="center">Hi, I'm Mahi Priyadarshi</h1>
 <h3 align="center">A passionate learner in AI & Deep Learning and Data Structures & Algorithms.</h3>
 
 <p align="center">
