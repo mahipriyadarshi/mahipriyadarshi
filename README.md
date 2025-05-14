@@ -4,8 +4,9 @@
 <h3 align="center">A passionate learner in AI & Deep Learning and Data Structures & Algorithms.</h3>
 
 <p align="center">
-  <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahi20%Priyadarshi-blue?style=flat-square&logo=linkedin"></a>
-  <a href=""><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/Mahi-Priyadarshi/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Mahi-blue?style=flat-square&logo=linkedin" />
+</a>
 </p>
 
 
