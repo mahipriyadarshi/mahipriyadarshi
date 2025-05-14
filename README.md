@@ -30,12 +30,12 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 ---
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats-seven-roan-68.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-xi-livid-84.vercel.app/api?username=mahipriyadarshi)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
 # Top Languages:
-[![Top Langs](https://github-readme-stats-seven-roan-68.vercel.app/api/top-langs/?username=mahipriyadarshi&layout=donut-vertical)](https://github.com/mahipriyadarshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xi-livid-84.vercel.app/api/top-langs/?username=mahipriyadarshi&layout=donut-vertical)](https://github.com/mahipriyadarshi/github-readme-stats)
 
 ---
 
