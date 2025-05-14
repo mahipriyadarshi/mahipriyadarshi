@@ -21,6 +21,8 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 - ⚡ Fun fact: I enjoy exploring new technologies .
 
 ---
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" alt="Spotify Logo" /> Currently tuned to:
+
 [![Spotify](https://novatorem-weld-chi.vercel.app/api/spotify)](https://open.spotify.com/user/3135cdkxvzuinkg7fwuhmavlp3mi)
 
 
