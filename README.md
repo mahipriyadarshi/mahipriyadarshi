@@ -21,6 +21,8 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 - ⚡ Fun fact: I enjoy exploring new technologies .
 
 ---
+
+---
 <center><h1>Language and Tools:<h1/><center/>
 
 
@@ -40,16 +42,9 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 ---
 
 # 📊 LeetCode:
-<p align="center">&nbsp;<img align="center" src="" alt="mahipriyadarshi"/></p>
-
-
----
+![](https://leetcard.jacoblin.cool/mahi_200430?ext=heatmap)
 
 
 
----
-
-
----
 
 
