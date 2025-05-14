@@ -21,6 +21,8 @@ I'm a self-motivated developer currently diving deep into the world of Deep Lear
 - ⚡ Fun fact: I enjoy exploring new technologies .
 
 ---
+[![Spotify](https://novatorem-weld-chi.vercel.app/api/spotify)](https://open.spotify.com/user/3135cdkxvzuinkg7fwuhmavlp3mi)
+
 
 ---
 <center><h1>Language and Tools:<h1/><center/>
