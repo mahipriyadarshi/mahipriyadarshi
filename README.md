@@ -23,7 +23,7 @@ I'm a **self-motivated developer** diving deep into the world of **Artificial In
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://open.spotify.com/user/3124ymjifccht4txg5m4ui6kul6e">
+  <a href="https://open.spotify.com/user/z">
     <img src="https://novatorem-weld-chi.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
